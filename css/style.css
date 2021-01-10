@@ -76,7 +76,8 @@ body{
     font-size: 14px;
     font-weight: 400;
     line-height: 24px;
-    color:#434b58;
+    color: #ff6b08;
+    text-decoration: none;
 } 
 .contacts-link-type {   
     font-size: 14px;
@@ -203,6 +204,7 @@ font-size: 22px;
 font-weight: 700;
 line-height: 24px;
 margin-top: 40px;
+margin-bottom: 10px;
 }
 .experience-title {
     -size: 22px;
